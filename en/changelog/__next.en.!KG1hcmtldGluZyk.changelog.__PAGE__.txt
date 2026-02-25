@@ -1,6 +1,0 @@
-1:"$Sreact.fragment"
-2:I[11393,["/_next/static/chunks/0a64093a2fad6d1a.js","/_next/static/chunks/4f828c6b4b0475b5.js"],"default"]
-3:I[78360,["/_next/static/chunks/e21ed6a13141b399.js","/_next/static/chunks/ce87b25aeca94d62.js"],"OutletBoundary"]
-4:"$Sreact.suspense"
-0:{"buildId":"-RoYuARFGnA8HHbXHTt8J","rsc":["$","$1","c",{"children":[["$","section",null,{"className":"h-full mx-auto w-full max-w-full md:max-w-screen-xl px-4 md:px-12 lg:px-20","children":["$","$L2",null,{"delay":0.1,"className":"w-full","children":["$","div",null,{"className":"py-12 max-w-3xl mx-auto","children":[["$","h1",null,{"className":"text-3xl md:text-5xl font-semibold","children":"Changelog"}],["$","p",null,{"className":"mt-6 text-muted-foreground","children":"Updates and release notes will appear here."}],["$","div",null,{"className":"mt-8 rounded-2xl border border-border/50 bg-card/40 p-6","children":[["$","h2",null,{"className":"text-lg font-semibold","children":"v0.1.0"}],["$","p",null,{"className":"mt-2 text-sm text-muted-foreground","children":"Initial site release."}]]}]]}]}]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
-5:null
